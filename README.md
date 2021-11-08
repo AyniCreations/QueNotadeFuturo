@@ -1,4 +1,14 @@
-file:///D:/C4%20Proyecto/photo_2021-11-07_22-19-54.jpg
+# Integrantes del equipo y secciones del frontend
+Gloria Gutiérrez - Header y footer.
+
+Norma Ceballos - Login y formulario.
+
+Ana María Giraldo - Servicios.
+
+Gislena Gil - Noticias.
+
+Cielo Rueda - Equipo.
+
 
 # Getting Started with Create React App
 
