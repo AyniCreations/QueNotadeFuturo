@@ -39,7 +39,7 @@ test('render home sections', () => {
     const sectionItem = screen.queryAllByRole('heading', {
       name: new RegExp(section, 'i'),
     });
-    // expect(sectionItem).toBeInTheDocument();
+    expect(sectionItem.length).toBeGreaterThan(0);
   });
 });
 
@@ -54,6 +54,6 @@ test('render teams', () => {
     const memberItem = screen.getAllByRole('heading', {
       name: new RegExp(member, 'i'),
     });
-    // expect(memberItem).toBeInTheDocument();
+    expect(memberItem.length).toBeGreaterThan(0);
   });
 });
