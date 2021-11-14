@@ -2,7 +2,7 @@
 ### Instalar tanto para el Frontend como para el backend el node-modules (npm install)
 ### Instalar para que reconozca el logo de Github (npm install react-icons --save)
 
-# Integrantes del equipo y secciones del frontend Sprint 1
+## Integrantes del equipo y secciones del frontend Sprint 1
 
 Gloria Gutiérrez - Header y footer.
 
