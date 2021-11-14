@@ -1,4 +1,9 @@
-# Integrantes del equipo y secciones del frontend
+# Instalaciones Importantes:
+## Instalar tanto para el Frontend como para el backend el node-modules (npm install)
+## Instalar para que reconozca el logo de Github (npm install react-icons --save)
+
+# Integrantes del equipo y secciones del frontend Sprint 1
+
 Gloria Gutiérrez - Header y footer.
 
 Norma Ceballos - Login y formulario.
@@ -8,6 +13,19 @@ Ana María Giraldo - Servicios.
 Gislena Gil - Noticias.
 
 Cielo Rueda - Equipo.
+
+## Integrantes del equipo y trabajo para el Sprint 2
+
+Gloria Gutiérrez - Frontend: Ajustes de estilos y Formulario para el CRUD con enlaces al Backend.
+
+Norma Ceballos - Frontend: Conectividad entre el Login y el formulario CRUD al igual que todos los enlaces del Footer.
+
+Ana María Giraldo - Frontend: Página de Instituciones Educativas y Backend otra opción aunque no es la que elegimos presentar.
+
+Gislena Gil - Backend: La opción que se eligió por ser la mejor y más completa.
+
+Cielo Rueda - Frontend: Página Album.
+
 
 
 # Getting Started with Create React App
