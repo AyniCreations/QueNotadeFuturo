@@ -26,6 +26,15 @@ Gislena Gil - Backend: La opción que se eligió por ser la mejor y más complet
 
 Cielo Rueda - Frontend: Página Album.
 
+## Trabajo para el Sprint 3
+
+Se hicieron correcciones al frontend, se creó el CRUD de instrumentos y el backend trabajando desde db local.
+
+## Trabajo para el Sprint 4
+
+En el frontend se modifico el acceso a los CRUD de instrumentos y donadores, para que fuera luego de la autenticación del login.
+
+En el backend se cuadro todo lo referente a los CRUD, login y autenticaciones y se conecto a MOngo Atlas, donde se crearon las diferentes colecciones.
 
 
 # Getting Started with Create React App
