@@ -36,6 +36,12 @@ En el frontend se modifico el acceso a los CRUD de instrumentos y donadores, par
 
 En el backend se cuadro todo lo referente a los CRUD, login y autenticaciones y se conecto a MOngo Atlas, donde se crearon las diferentes colecciones.
 
+## Trabajo para el Sprint 5 Despliegue luego de la sustentación y eliminar las versiones anteriores del Github
+
+En el frontend se despliega a Heroku.
+
+En el backend se despliega a Heroku.
+
 
 # Getting Started with Create React App
 
